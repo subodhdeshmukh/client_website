@@ -1,0 +1,16 @@
+@media screen and (max-width: 990px) {
+  .sm-center {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .center {
+    font-size: 40px;
+  }
+
+  .add_mr {
+    margin-top: 50px;
+  }
+}
